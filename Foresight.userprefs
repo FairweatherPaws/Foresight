@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\BallBehaviour.cs">
+    <Files>
+      <File FileName="Assets\scripts\BallBehaviour.cs" Line="37" Column="20" />
+      <File FileName="..\DesertFox\Assets\Scripts\BulletFlight.cs" Line="30" Column="1" />
+      <File FileName="..\DesertFox\Assets\Scripts\TankMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameControl.cs" Line="51" Column="6" />
+      <File FileName="..\FoustRL\Assets\Scripts\GCScript.cs" Line="311" Column="8" />
+      <File FileName="Assets\scripts\TextHLScript.cs" Line="35" Column="68" />
+      <File FileName="..\DesertFox\Assets\Scripts\CannonAiming.cs" Line="23" Column="3" />
+      <File FileName="Assets\scripts\PaddleControl.cs" Line="53" Column="19" />
+      <File FileName="Assets\scripts\PaddleData.cs" Line="6" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
